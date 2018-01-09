@@ -1,1 +1,1 @@
-js files.
+JS files.
